@@ -11,12 +11,12 @@ A program for getting the initials of a user's name
   `U`
   
 ## Notes
-  1. You can assign a value to the 'shouldBeUpperCase' parameter
-  2. 
+   You can assign a value to the 'shouldBeUpperCase' parameter
+   
     `variable_name: str = initialiser(name='userName', shouldBeUpperCase=True)`
     
-  2. You can decide not to assign a value to the 'shouldBeUpperCase' parameter
-  3. 
+   You can decide not to assign a value to the 'shouldBeUpperCase' parameter
+   
      `variable_name: str = initialiser(name='userName')`
  
  The difference in ouput would be that the initials would be in the same casing as the first letter of the name passed into the function and not in upper case which the 'shouldBeUpperCase' parameter makes sure of.
