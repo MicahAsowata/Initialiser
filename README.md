@@ -6,7 +6,7 @@ A program for getting the initials of a user's name
  
     `variable_name: str = initialiser(name='username', shouldBeUpperCase=True)`
   
- Output should be
+ Output should be:
  
     `U`
   
