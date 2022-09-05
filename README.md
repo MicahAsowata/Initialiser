@@ -18,4 +18,4 @@ A program for getting the initials of a user's name
  The difference in ouput would be that the initials would be in the same casing as the first letter of the name passed into the function and not in upper case which the 'shouldBeUpperCase' parameter makes sure of.
  
 Thanks for making out time to read.
-:partying_face :partying_face Happy Coding :partying_face :partying_face :partying_face
+:partying_face: :partying_face: Happy Coding :partying_face: :partying_face: :partying_face:
