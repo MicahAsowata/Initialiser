@@ -4,11 +4,11 @@ A program for getting the initials of a user's name
 ## How to use
  Assign the the function call to a variable which would store the returned value
  
-  `variable_name: str = initialiser(name='username', shouldBeUpperCase=True)`
+    `variable_name: str = initialiser(name='username', shouldBeUpperCase=True)`
   
  Output should be
  
-  `U`
+    `U`
   
 ## Notes
    You can assign a value to the 'shouldBeUpperCase' parameter
